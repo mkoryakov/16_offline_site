@@ -1,6 +1,5 @@
 # New Site Template
-
-[TODO. There will be project description]
+Страница статического сайта для работы без подключения к сети интернет.
 
 # Project Goals
 
